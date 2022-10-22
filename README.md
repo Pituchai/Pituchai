@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Pituchai Mitpakdee You can call me Fam or FaMBoYz
-- 👀 I’m interested in Investmen and Coding(Newbie)
-- 🌱 I’m currently learning in the university
-- 💞️ I’m looking to collaborate on someone that want me(no one)
-- 📫 How to reach me --> FB:Fam Pituchai 
+update comment, delete comment 
+## ** Comment review ** ##
+show user who write comments on the review.
 
-<!---
-Pituchai/Pituchai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+####URL
+`POST /type`
+
+
+| Parameter	    |      Type     | Description |
+| ------------- | ------------- |-------------| 
+| Comment_ID    | int           | comment's id|
+| CommentText   | String        | comment text|
+| CommentDate   | Datetime      | time that comment|
+
+EXAMPLE 
+
+
+ 
+ 
