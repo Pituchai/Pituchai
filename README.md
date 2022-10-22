@@ -1,10 +1,10 @@
-## Comment on the review   ##
+### Comment on the review   ###
 write comments on the review.
 
-## URL ##
+####  URL #### 
 `POST /type`
 
-## REQUEST BODY ##
+####  REQUEST BODY #### 
 REQUEST BODY
 
 | Parameter	    |      Type     | Description |
@@ -64,11 +64,11 @@ EXAMPLE
 ## Delete comment on the review   ##
 delete comment by comment_ID
 
-## URL ##
+#### URL ####
 
 `DELETE /:id`
 
-## REQUEST BODY ##
+#### REQUEST BODY ####
 REQUEST BODY
 
 
