@@ -45,5 +45,5 @@ EXAMPLE
 ```
  
 #### fail 
-`400 /type`
+`400 /fail`
 
