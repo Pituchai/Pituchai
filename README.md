@@ -31,8 +31,8 @@ RESPONSE
 | ------------- | ------------- |-------------|
 | Review_ID     | int       | review's id|
 | Comment_ID    | int       | comment's id  |
-| User_ID       | String        | user'id write on review   |
-| commentText   | String     |   |
+| User_ID       | String        | user' id write on review   |
+| commentText   | String     | comment on reveiw |
 | commentDate   | Datetime      | date comment|
 | amountLike    | int           | number of user like comment|
 
