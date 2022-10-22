@@ -1,6 +1,6 @@
 update comment, delete comment 
 ## Comment on the review   ##
-show user who write comments on the review.
+write comments on the review.
 
 ## URL ##
 `POST /type`
@@ -25,11 +25,16 @@ EXAMPLE
 ```
 #### success
 
+RESPONSE
+
 | Parameter	    |      Type     | Description |
-| ------------- | ------------- |-------------| 
-| commentText   | String        | comment text|
-| commentDate   | Datetime      | time that comment|
-| amountLike    | Int           | number of user like comment|
+| ------------- | ------------- |-------------|
+| Review_ID     | int       | review's id|
+| Comment_ID    | int       | comment's id  |
+| User_ID       | String        | user'id write on review   |
+| commentText   | String     |   |
+| commentDate   | Datetime      | date comment|
+| amountLike    | int           | number of user like comment|
 
 EXAMPLE
 
@@ -47,3 +52,20 @@ EXAMPLE
 #### fail 
 `400 ` fail
 ***
+
+## Delete comment on the review   ##
+delete comment by comment_ID
+
+## URL ##
+
+`DELETE /:id`
+
+## REQUEST BODY ##
+REQUEST BODY
+
+
+| Parameter	    |      Type     | Description |
+| ------------- | ------------- |-------------| 
+| comment_ID    | int           | comment's id|
+
+
