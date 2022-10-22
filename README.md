@@ -1,8 +1,8 @@
 update comment, delete comment 
-## ** Comment review ** ##
+## Comment review  ##
 show user who write comments on the review.
 
-####URL
+####URL####
 `POST /type`
 
 
