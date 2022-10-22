@@ -23,11 +23,13 @@ EXAMPLE
 }
 
 ```
+#### success
+
 | Parameter	    |      Type     | Description |
 | ------------- | ------------- |-------------| 
 | commentText   | String        | comment text|
 | commentDate   | Datetime      | time that comment|
-| amountLike.   | Int           | number user like comment|
+| amountLike    | Int           | number of user like comment|
 
 EXAMPLE
 
@@ -36,9 +38,12 @@ EXAMPLE
 {
  commentText: "Hello your reveiw  is good,it's help me a lot"
  commentDate: "10-6-22"
+ amountLike : 23 
 
 }
 
 ```
  
- 
+#### fail 
+`400 /type`
+
