@@ -1,3 +1,4 @@
+***
 ### Comment on the review   ###
 write comments on the review.
 
@@ -61,7 +62,7 @@ EXAMPLE
 `400 ` fail
 ***
 
-## Delete comment on the review   ##
+### Delete comment on the review   ###
 delete comment by comment_ID
 
 #### URL ####
@@ -90,7 +91,3 @@ EXAMPLE
 #### fail
 `200 ` bad request
 ***
-
-
-
-
