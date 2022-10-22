@@ -8,17 +8,23 @@ write comments on the review.
 ## REQUEST BODY ##
 REQUEST BODY
 
-
 | Parameter	    |      Type     | Description |
-| ------------- | ------------- |-------------| 
-| comment_ID    | int           | comment's id|
-
+| ------------- | ------------- |-------------|
+| Review_ID     | int       | review's id|
+| Comment_ID    | int       | comment's id  |
+| User_ID       | String        | user' id who write on review   |
+| commentText   | String     | comment on reveiw |
+| commentDate   | Datetime      | date comment|
 
 EXAMPLE 
 ```
 
 {
+ review_ID : "d784129589"
  comment_ID: "c3d321d32s23"
+ user_ID : "j312513d12" 
+ commentText:"This is good reveiw, it's help me a lot"
+ commentDate:"10-6-22"
 
 }
 
@@ -41,9 +47,12 @@ EXAMPLE
 ```
 
 {
- commentText: "Hello your reveiw  is good,it's help me a lot"
- commentDate: "10-6-22"
- amountLike : 23 
+ review_ID : "d784129589",
+ comment_ID: "c3d321d32s23",
+ user_ID : "j312513d12" ,
+ commentText:"This is good reveiw, it's help me a lot",
+ commentDate:"10-6-22",
+ amountlike : "20"
 
 }
 
@@ -67,5 +76,22 @@ REQUEST BODY
 | Parameter	    |      Type     | Description |
 | ------------- | ------------- |-------------| 
 | comment_ID    | int           | comment's id|
+
+EXAMPLE
+
+```
+
+{
+ comment_ID: "c3d321d32s23",
+}
+
+```
+#### success
+`200 ` ok
+#### fail
+`200 ` bad request
+***
+
+
 
 
