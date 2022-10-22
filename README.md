@@ -25,7 +25,6 @@ EXAMPLE
  user_ID : "j312513d12" 
  commentText:"This is good reveiw, it's help me a lot"
  commentDate:"10-6-22"
-
 }
 
 ```
