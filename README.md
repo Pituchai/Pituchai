@@ -13,84 +13,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Languages and Tools</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connect with me and Languages and Tools</title>
 </head>
 <body>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left"></p>
+  <h3 align="left">Connect with me:</h3>
+  <p align="left"></p>
 
-    <h3 align="left">Languages and Tools:</h3>
-    <form action="">
-        <label for="programming_languages">Programming Languages:</label><br>
-        <select id="programming_languages" name="programming_languages">
-            <option value="java">Java</option>
-            <option value="javascript">JavaScript</option>
-            <option value="html5">HTML5</option>
-            <option value="css3">CSS3</option>
-            <option value="dart">Dart</option>
-            <option value="python">Python</option>
-            <option value="typescript">TypeScript</option>
-        </select><br><br>
+  <h3 align="left">Programming Languages:</h3>
+  <p align="left">
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+  </p>
 
-        <label for="frontend">Frontend Development:</label><br>
-        <select id="frontend" name="frontend">
-            <option value="bootstrap">Bootstrap</option>
-            <option value="figma">Figma</option>
-            <option value="react">React</option>
-            <option value="reactnative">React Native</option>
-        </select><br><br>
+  <h3 align="left">Frontend Development:</h3>
+  <p align="left">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+  </p>
 
-        <label for="backend">Backend Development:</label><br>
-        <select id="backend" name="backend">
-            <option value="express">Express.js</option>
-            <option value="nodejs">Node.js</option>
-        </select><br><br>
+  <h3 align="left">Backend Development:</h3>
+  <p align="left">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+  </p>
 
-        <label for="mobile">Mobile App Development:</label><br>
-        <select id="mobile" name="mobile">
-            <option value="android">Android</option>
-            <option value="flutter">Flutter</option>
-            <option value="reactnative">React Native</option>
-        </select><br><br>
+  <h3 align="left">Mobile App Development:</h3>
+  <p align="left">
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </a>
+  </p>
 
-        <label for="ai_ml">AI/ML:</label><br>
-        <select id="ai_ml" name="ai_ml">
-            <option value="tensorflow">TensorFlow</option>
-            <option value="pytorch">PyTorch</option>
-            <option value="scikit_learn">Scikit-learn</option>
-        </select><br><br>
+  <h3 align="left">AI/ML:</h3>
+  <p align="left">
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    </a>
+  </p>
 
-        <label for="database">Database:</label><br>
-        <select id="database" name="database">
-            <option value="mongodb">MongoDB</option>
-            <option value="mysql">MySQL</option>
-            <option value="postgresql">PostgreSQL</option>
-            <option value="sqlite">SQLite</option>
-        </select><br><br>
+ 
 
-        <label for="data_visualization">Data Visualization:</label><br>
-        <select id="data_visualization" name="data_visualization">
-            <option value="seaborn">Seaborn</option>
-        </select><br><br>
-
-        <label for="baas">Backend as a Service (BaaS):</label><br>
-        <select id="baas" name="baas">
-            <option value="firebase">Firebase</option>
-        </select><br><br>
-
-        <label for="software">Software:</label><br>
-        <select id="software" name="software">
-            <option value="docker">Docker</option>
-            <option value="framer">Framer</option>
-            <option value="hive">Apache Hive</option>
-            <option value="opencv">OpenCV</option>
-            <option value="postman">Postman</option>
-        </select><br><br>
-
-        <input type="submit" value="Submit">
-    </form>
-</body>
-</html>
 
