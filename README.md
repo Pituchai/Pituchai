@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Sceince**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF7kfWYgQE/fEkNDd0OrqgyNivnY5NUYw/view?utm_content=DAF7kfWYgQE&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF7kfWYgQE/fEkNDd0OrqgyNivnY5NUYw/view?utm_content=DAF7kfWYgQE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences  [https://shorturl.at/Pituchai]
 
 - ⚡ Fun fact **I in love with BJJ, If the visitors also love to play bjj, we are freind.**
 
