@@ -15,7 +15,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Connect with me and Languages and Tools</title>
 </head>
 <body>
   <h3 align="left">Connect with me:</h3>
