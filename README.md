@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Data Sceince**
 
-- 📄 Know about my experiences  [https://shorturl.at/Pituchai]
-
 - ⚡ Fun fact **I in love with BJJ, If the visitors also love to play bjj, we are freind.**
 
 <h3 align="left">Connect with me:</h3>
