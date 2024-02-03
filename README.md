@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [nlp-with-disaster-tweets](https://www.kaggle.com/pituchaimitpakdee/nlp-with-disaster-tweets-from-fam) It's study about predict which Tweets are real disasters and which one’s aren’t.
 
-- 🌱 I’m currently learning **Advance NLP, Data mining(incoming project base) and data visualization**
+- 🌱 I’m currently learning **NLP, Data mining(incoming project base) and data visualization**
 
 - 👯 I’m looking to collaborate on **Data Sceince**
 
