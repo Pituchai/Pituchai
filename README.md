@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NLP, Data mining(incoming project base) and data visualization**
 
-- 👯 I’m looking to collaborate on **Data Sceince**
+- 👯 I’m looking to collaborate on **Data Sceince,ML Engineer or any relate field **
 
 - ⚡ Fun fact **I in love with BJJ, If the visitors also love to play bjj, we are freind.**
 
