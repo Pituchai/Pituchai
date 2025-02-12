@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pituchai Mitpakdee</h1>
 <h3 align="center">A passionate to Data Data Data!!!!</h3>
 
-- 🌱 I’m currently learning **NLP, Data mining(incoming project base) and data visualization**
+- 🌱 I’m currently learning all fundamental concept of DS and ML.
 
 - 👯 I’m looking to collaborate on **Data Sceince,ML Engineer or any relate field **
 
