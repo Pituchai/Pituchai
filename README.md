@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Pituchai Mitpakdee</h1>
-<h3 align="center">A passionate to Data Data Data!!!!</h3>
 
-- 🌱 I’m currently learning all fundamental concepts of DS and ML.
 
-- 👯 I’m looking to collaborate on **Data Sceince,ML Engineer or any relate field **
+- Algo trader who dream to success at something
 
 - ⚡ Fun fact **I in love with BJJ, If the visitors also love to play bjj, we are freind.**
 
