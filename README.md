@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Pituchai Mitpakdee</h1>
 
 
-- Algo trader who dream to success at something
 
 - ⚡ Fun fact **I in love with BJJ, If the visitors also love to play bjj, we are freind.**
 
